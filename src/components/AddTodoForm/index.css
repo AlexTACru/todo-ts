@@ -1,0 +1,24 @@
+.add-todo-form__form {
+  display: flex;
+}
+
+.add-todo-form__form input {
+  padding: 10px 10px;
+
+  border: 1px solid #292929;
+  border-radius: 3px 0 0 3px;
+
+  color: #292929;
+
+  flex-grow: 1;
+}
+
+.add-todo-form__form button {
+  background: #292929;
+
+  border: none;
+
+  color: #e6e6e6;
+
+  padding: 0 20px;
+}

@@ -1,0 +1,40 @@
+{
+  "name": "TODO-TS",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-redux": "6.0.1",
+    "react-scripts": "2.1.3",
+    "react-scripts-ts": "2.15.0",
+    "redux": "^3.7.2",
+    "reselect": "latest",
+    "typescript": "3.3.3"
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.0",
+    "@types/node": "10.12.24",
+    "@types/react": "16.8.2",
+    "@types/react-dom": "16.8.0",
+    "@types/react-redux": "5.0.19",
+    "@types/redux-logger": "^3.0.7",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-ts": "react-scripts-ts start",
+    "build": "react-scripts build",
+    "build-ts": "react-scripts-ts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

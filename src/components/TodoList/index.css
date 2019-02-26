@@ -1,0 +1,9 @@
+.todo__item {
+  cursor: pointer;
+
+  font-size: 24px;
+}
+
+.todo__item--done {
+  text-decoration: line-through;
+}
